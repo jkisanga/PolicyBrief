@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="250dp"
+    android:layout_height="250dp"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/idara_cardView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        card_view:cardCornerRadius="0dp"
+        card_view:cardElevation="@dimen/margin10"
+        card_view:cardMaxElevation="@dimen/margin10"
+        card_view:contentPadding="@dimen/margin10">
+
+    <RelativeLayout
+        android:background="#556649"
+        android:id="@+id/cat_row_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_gravity="center">
+
+        <ImageView
+            android:layout_gravity="center"
+            android:id="@+id/cat_icon"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:layout_centerHorizontal="true"
+            android:padding="3dp"
+            android:layout_margin="4dp"/>
+
+        <TextView
+            android:layout_centerHorizontal="true"
+            android:textColor="@android:color/white"
+            android:layout_marginTop="3dp"
+            android:layout_marginLeft="6dp"
+            android:id="@+id/txt_cate_desc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="1dp" />
+
+        <TextView
+            android:textStyle="bold"
+            android:maxLines="2"
+            android:padding="5dp"
+            android:layout_margin="4dp"
+            android:id="@+id/cat_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:textColor="@android:color/white"
+            android:layout_below="@+id/cat_icon" />
+
+
+        </RelativeLayout>
+
+
+
+</android.support.v7.widget.CardView>
+    </LinearLayout>
+
+
+
+
+
+
+
+

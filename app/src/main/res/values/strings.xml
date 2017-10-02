@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Ag.Policy App</string>
+    <string name="action_settings">Logout</string>
+    <string name="action_change_password">Change Password</string>
+    <string name="action_search">search</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="title_activity_doc_viewer">Doc Viewer</string>
+    <string name="title_activity_login">Login Activity</string>
+
+
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Share</string>
+    <string name="title_activity_category"> Document Categories</string>
+    <string name="title_data_activity_category"> Data Categories</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start_app">Starting application: %s</string>
+
+
+    <!-- Menu names -->
+    <string name="business_card">Business Card</string>
+    <string name="calendar">Document</string>
+    <string name="cloud">Statistics</string>
+    <string name="facebook">Facebook</string>
+    <string name="key">Key</string>
+    <string name="mail">Mail</string>
+    <string name="profile">Audio</string>
+    <string name="tag">Video</string>
+    <string name="voice_search">Voice Search</string>
+    <string name="title_activity_video">Videos</string>
+    <string name="title_activity_player">Watch Video</string>
+
+    <string name="failed">Failed to initialize Youtube Player try again after 20 sec</string>
+    <string name="title_activity_audio">Audio</string>
+    <string name="title_activity_video_category">Video Categories</string>
+
+    <string name="title_activity_audio_category">Audio Categories</string>
+
+
+    <string name="offline_mode_message">Your using Offline Mode. Enable Data to get Online Updated News and Notifications</string>
+    <string name="online_mode_message">Your using Oline Mode.</string>
+    <string name="title_activity_full_story">Full Story</string>
+    <string name="title_activity_change_passward">Change Password</string>
+
+    <string name="govt">The United Republic of Tanzania</string>
+    <string name="agriculture1">Ministry of Agriculture, Livestock and Fisheries</string>
+    <string name="agriculture2">Fisheries</string>
+
+
+</resources>

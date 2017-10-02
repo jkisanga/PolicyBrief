@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="tzchoice.kisanga.joshua.policybrief">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!--<uses-permission android:name="android.permission.READ_PHONE_STATE" />-->
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+
+    <application
+        android:name=".app.MyApplication"
+        android:allowBackup="true"
+        android:hardwareAccelerated="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:screenOrientation="landscape"
+            android:name=".activity.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:screenOrientation="landscape"
+            android:name=".activity.DocViewerActivity"
+            android:label="@string/title_activity_doc_viewer"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:screenOrientation="landscape"
+            android:name=".activity.LoginActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:screenOrientation="landscape"
+            android:name=".activity.CategoryActivity"
+            android:label="@string/title_activity_category"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <activity android:name=".activity.TabActivity"
+            android:screenOrientation="landscape" />
+
+
+        <activity android:name=".activity.DataActivity"
+            android:screenOrientation="landscape" />
+
+
+         <activity
+             android:screenOrientation="landscape"
+         android:name=".activity.DataCategoryActivity"
+         android:label="@string/title_data_activity_category"
+         android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:screenOrientation="landscape"
+            android:name=".activity.VideoActivity"
+            android:configChanges="orientation|screenSize|locale"
+            android:label="@string/title_activity_video"
+            android:theme="@style/AppTheme" />
+
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="0047e3bf14d8098638d7a7069ebfaccb2e1b4e7a" />
+
+        <activity
+            android:screenOrientation="landscape"
+            android:name=".activity.AudioActivity"
+            android:label="@string/title_activity_audio"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:screenOrientation="landscape"
+            android:name=".activity.VideoCategoryActivity"
+            android:label="@string/title_activity_video_category"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:screenOrientation="landscape"
+            android:name=".activity.AudioCategoryActivity"
+            android:label="@string/title_activity_audio_category"
+            android:theme="@style/AppTheme" />
+
+        <!-- Firebase Notifications -->
+        <service
+            android:name=".Service.MyFirebaseMessagingService"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+        <service android:name=".Service.MyFirebaseInstanceIDService">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+        <!-- ./Firebase Notifications -->
+
+        <activity android:name=".activity.SplashActivity"
+            android:screenOrientation="landscape" />
+
+        <receiver
+            android:name=".app.CheckConnectivity"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:screenOrientation="landscape"
+            android:name=".activity.FullStoryActivity"
+            android:label="@string/title_activity_full_story"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:screenOrientation="landscape"
+            android:name=".activity.ChangePasswardActivity"
+            android:label="@string/title_activity_change_passward"
+            android:theme="@style/AppTheme"></activity>
+    </application>
+
+</manifest>

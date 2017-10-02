@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "277434090270",
+    "firebase_url": "https://winged-cargo-153015.firebaseio.com",
+    "project_id": "winged-cargo-153015",
+    "storage_bucket": "winged-cargo-153015.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277434090270:android:662f304fe882a213",
+        "android_client_info": {
+          "package_name": "tzchoice.kisanga.joshua.policybrief"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277434090270-sgpk1t83drtkhk2ndenqjpsg7f9g1s55.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tzchoice.kisanga.joshua.policybrief",
+            "certificate_hash": "c33627b24ed12ab639dc4cd2b91a950beed392e0"
+          }
+        },
+        {
+          "client_id": "277434090270-ohgkn5ekbv8unlfbroi8g7tmul7kc1bl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV7mWIjMj4bGeQAQb79Tk1bokwPLq58TY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277434090270-ohgkn5ekbv8unlfbroi8g7tmul7kc1bl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
