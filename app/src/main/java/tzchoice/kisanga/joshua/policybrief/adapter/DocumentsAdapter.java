@@ -2,6 +2,7 @@ package tzchoice.kisanga.joshua.policybrief.adapter;
 
 import android.app.Activity;
 import android.content.pm.PackageManager;
+import android.graphics.Color;
 import android.net.Uri;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -79,6 +80,11 @@ public class DocumentsAdapter  extends RecyclerView.Adapter<DocumentsAdapter.MyV
         String path = activity.getExternalFilesDir(null) + File.separator + strThumbnail;
         holder.title.setText(document.getTitle());
         holder.summary.setText(document.getSummary());
+        if (position % 2 == 0) {
+            holder.relativeLayout.setBackgroundColor(Color.parseColor("#6f7175"));
+        } else {
+            holder.relativeLayout.setBackgroundColor(Color.parseColor("#0A9B88"));
+        }
         holder.relativeLayout.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

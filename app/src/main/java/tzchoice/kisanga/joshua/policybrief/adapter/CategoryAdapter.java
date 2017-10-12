@@ -69,6 +69,7 @@ public class CategoryAdapter extends RecyclerView.Adapter<CategoryAdapter.MyView
 
            // holder.desc.setText(category.getDesc());
 
+
             Picasso.with(activity).load(new File(path)).into(holder.cateIcon);
 
 

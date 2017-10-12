@@ -1,6 +1,7 @@
 package tzchoice.kisanga.joshua.policybrief.adapter;
 
 import android.app.Activity;
+import android.graphics.Color;
 import android.net.Uri;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -66,6 +67,11 @@ public class DataAdapter extends RecyclerView.Adapter<DataAdapter.MyViewHolder> 
         final RData document = rawDatas.get(position);
 
         String path = activity.getExternalFilesDir(null) + File.separator + document.getThumbnail();
+        if (position % 2 == 0) {
+            holder.relativeLayout.setBackgroundColor(Color.parseColor("#6f7175"));
+        } else {
+            holder.relativeLayout.setBackgroundColor(Color.parseColor("#0A9B88"));
+        }
         holder.title.setText(document.getTitle());
         holder.summary.setText(document.getSummary());
         Picasso.with(activity).load(new File(path)).into(holder.thumbnail);

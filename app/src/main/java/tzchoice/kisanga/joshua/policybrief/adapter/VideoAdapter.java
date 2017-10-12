@@ -1,6 +1,7 @@
 package tzchoice.kisanga.joshua.policybrief.adapter;
 
 import android.app.Activity;
+import android.graphics.Color;
 import android.net.Uri;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -72,6 +73,11 @@ public class VideoAdapter extends RecyclerView.Adapter<VideoAdapter.MyViewHolder
 
         final RVideo document = documents.get(position);
         final String strThumbnail = document.getThumbnail();
+        if (position % 2 == 0) {
+            holder.relativeLayout.setBackgroundColor(Color.parseColor("#6f7175"));
+        } else {
+            holder.relativeLayout.setBackgroundColor(Color.parseColor("#0A9B88"));
+        }
         String path = activity.getExternalFilesDir(null) + File.separator + strThumbnail;
         holder.title.setText(document.getTitle());
         holder.summary.setText(document.getDesc());

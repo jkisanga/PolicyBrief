@@ -3,6 +3,7 @@ package tzchoice.kisanga.joshua.policybrief.adapter;
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
+import android.graphics.Color;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 import android.support.constraint.ConstraintLayout;
@@ -74,6 +75,11 @@ public class NewsAdapter extends RecyclerView.Adapter<NewsAdapter.MyViewHolder> 
 
         final RNews news = newses.get(position);
         final String strThumbnail = news.getImagePath();
+//        if (position % 2 == 0) {
+//            holder.relativeLayout.setBackgroundColor(Color.parseColor("#6f7175"));
+//        } else {
+//            holder.relativeLayout.setBackgroundColor(Color.parseColor("#0A9B88"));
+//        }
         String path = activity.getExternalFilesDir(null) + File.separator + strThumbnail;
         holder.title.setText(news.getTitle());
         holder.summary.setText(news.getSummary());

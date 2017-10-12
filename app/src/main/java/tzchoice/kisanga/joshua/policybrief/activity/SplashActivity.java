@@ -47,6 +47,7 @@ public class SplashActivity extends Activity {
         final Animation animation_2 = AnimationUtils.loadAnimation(getBaseContext(),R.anim.tz);
         final Animation animation_3 = AnimationUtils.loadAnimation(getBaseContext(),R.anim.agr);
         final Animation animation_4 = AnimationUtils.loadAnimation(getBaseContext(),R.anim.logo2);
+        final Animation animation_5 = AnimationUtils.loadAnimation(getBaseContext(),R.anim.logo2);
 
         gavLogo.startAnimation(animation_1);
 
@@ -108,6 +109,8 @@ public class SplashActivity extends Activity {
             }
         });
 
+
+
         animation_4.setAnimationListener(new Animation.AnimationListener() {
             @Override
             public void onAnimationStart(Animation animation) {
@@ -127,5 +130,25 @@ public class SplashActivity extends Activity {
 
             }
         });
+
+//        animation_5.setAnimationListener(new Animation.AnimationListener() {
+//            @Override
+//            public void onAnimationStart(Animation animation) {
+//
+//            }
+//
+//            @Override
+//            public void onAnimationEnd(Animation animation) {
+//
+//                finish();
+//                Intent i = new Intent(getBaseContext(),TabActivity.class);
+//                startActivity(i);
+//            }
+//
+//            @Override
+//            public void onAnimationRepeat(Animation animation) {
+//
+//            }
+//        });
     }
 }
