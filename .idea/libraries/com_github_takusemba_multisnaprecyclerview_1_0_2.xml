@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.github.takusemba:multisnaprecyclerview-1.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/32030335cbca81fd56ac43d9e69246bb9f895f26/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/32030335cbca81fd56ac43d9e69246bb9f895f26/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.takusemba/multisnaprecyclerview/1.0.2/c289b643ef3c24f4499013d700e534bbe1b25466/multisnaprecyclerview-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
