@@ -39,114 +39,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Dell\.android\build-cache\c44bb26719f080581d5f15cb1c3678ad41424e01\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="62127b472f9dcfc95551c03d5efd46c121a9c73f">
-        <dex dex="C:\Users\Dell\AndroidStudioProjects\PolicyBrief\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_30c3d757123c70c7a7bcd888400750066de22352\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Dell\.android\build-cache\bb690f3c6dd46808fecd8eb8aa2acdae0ddc3818\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1db6784d006818fee2591f13b0bf09ac31a3d49a">
-        <dex dex="C:\Users\Dell\AndroidStudioProjects\PolicyBrief\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5a3b2ecc663ca25fb5df88b36bc9826e91f77e71\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Dell\AndroidStudioProjects\PolicyBrief\app\libs\YouTubeAndroidPlayerApi.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
-        <dex dex="C:\Users\Dell\AndroidStudioProjects\PolicyBrief\app\build\intermediates\transforms\dex\debug\folders\1000\2\YouTubeAndroidPlayerApi_58a469558596460286031c97555c99f3e71195eb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Dell\.android\build-cache\216650308ae3054ad574932a8bb0d3764f3db437\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
-        <dex dex="C:\Users\Dell\AndroidStudioProjects\PolicyBrief\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_821325806fb44a33c4f31a4d30b7c714dc0499eb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Dell\.android\build-cache\cb13cfb58e7a925b73c8fe25f015555a4f143ed4\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="2caa90c11fc6559f3718fcd10011f1ac631a76cf">
-        <dex dex="C:\Users\Dell\AndroidStudioProjects\PolicyBrief\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_75727d917f15a4eb9dc71da738708f923781c768\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Dell\.android\build-cache\3d30096fa4c4affdcfccccc17df4b5d9f1ccb2cc\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
-        <dex dex="C:\Users\Dell\AndroidStudioProjects\PolicyBrief\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_87a1c37943ab2f3cfeee0daf2c9a38b09591d3f1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Dell\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
-        <dex dex="C:\Users\Dell\AndroidStudioProjects\PolicyBrief\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_2c47bb9392ded73f5f42126da4390c79ed92adde\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Dell\.android\build-cache\0abfcd946e6f67575f84fa11c67a6a5e5f53d8a3\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="97a90b867543905c0717d04f6a60532c9405aa33">
-        <dex dex="C:\Users\Dell\AndroidStudioProjects\PolicyBrief\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fee8bc0cf295df4e91d606318777a0b5fd8f350b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Dell\.android\build-cache\1f976c095f5cf5fdfae08640df0d5c29340c8c44\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
-        <dex dex="C:\Users\Dell\AndroidStudioProjects\PolicyBrief\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_df8809d3d29eb365c2ffa5172d4f343835007c92\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Dell\AndroidStudioProjects\PolicyBrief\app\libs\google-api-client-1.22.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="22aeef8463139fde1af1dcb69c5ecafb4142d340">
-        <dex dex="C:\Users\Dell\AndroidStudioProjects\PolicyBrief\app\build\intermediates\transforms\dex\debug\folders\1000\2\google-api-client-1.22.0_58670425d9edab9ddbe1db3301cc1d5cd6a777ac\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Dell\.android\build-cache\e0097da2d97ebbe5753619f482e836b8e4d001bc\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
-        <dex dex="C:\Users\Dell\AndroidStudioProjects\PolicyBrief\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e19807b617d407388262f72a08ace1a888e56a09\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Dell\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\2.0.0-beta2\880d9e0997b2d1bfc98e0d121ced33ee5d04aac4\retrofit-2.0.0-beta2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
-        <dex dex="C:\Users\Dell\AndroidStudioProjects\PolicyBrief\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.0-beta2_655093a232eaef37b5d5c17b0bc01a41098ae886\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\Dell\.android\build-cache\cd0fafb8a60902ee1b6f2f599c278d883e4dbf3f\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -174,12 +66,39 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\Dell\.android\build-cache\c44bb26719f080581d5f15cb1c3678ad41424e01\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="62127b472f9dcfc95551c03d5efd46c121a9c73f">
+        <dex dex="C:\Users\Dell\AndroidStudioProjects\PolicyBrief\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_30c3d757123c70c7a7bcd888400750066de22352\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.android\build-cache\bb690f3c6dd46808fecd8eb8aa2acdae0ddc3818\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1db6784d006818fee2591f13b0bf09ac31a3d49a">
+        <dex dex="C:\Users\Dell\AndroidStudioProjects\PolicyBrief\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5a3b2ecc663ca25fb5df88b36bc9826e91f77e71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Dell\.android\build-cache\9f09092ae394c7989d0590df0a07936073b03d10\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
         <dex dex="C:\Users\Dell\AndroidStudioProjects\PolicyBrief\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fd8e38507750fa179dbb0f78c295786336eee151\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\AndroidStudioProjects\PolicyBrief\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="C:\Users\Dell\AndroidStudioProjects\PolicyBrief\app\build\intermediates\transforms\dex\debug\folders\1000\2\YouTubeAndroidPlayerApi_58a469558596460286031c97555c99f3e71195eb\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -225,6 +144,33 @@
         revision="25.0.2"
         sha1="1579bb361a7e9d5663350e688138b2a7f30603d8">
         <dex dex="C:\Users\Dell\AndroidStudioProjects\PolicyBrief\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9802fb46ab80541cffcc8338e211a7efa5d68a72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.android\build-cache\216650308ae3054ad574932a8bb0d3764f3db437\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Users\Dell\AndroidStudioProjects\PolicyBrief\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_821325806fb44a33c4f31a4d30b7c714dc0499eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.android\build-cache\cb13cfb58e7a925b73c8fe25f015555a4f143ed4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2caa90c11fc6559f3718fcd10011f1ac631a76cf">
+        <dex dex="C:\Users\Dell\AndroidStudioProjects\PolicyBrief\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_75727d917f15a4eb9dc71da738708f923781c768\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.android\build-cache\3d30096fa4c4affdcfccccc17df4b5d9f1ccb2cc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\Dell\AndroidStudioProjects\PolicyBrief\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_87a1c37943ab2f3cfeee0daf2c9a38b09591d3f1\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -300,12 +246,57 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\Dell\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\Dell\AndroidStudioProjects\PolicyBrief\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_2c47bb9392ded73f5f42126da4390c79ed92adde\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.android\build-cache\0abfcd946e6f67575f84fa11c67a6a5e5f53d8a3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="97a90b867543905c0717d04f6a60532c9405aa33">
+        <dex dex="C:\Users\Dell\AndroidStudioProjects\PolicyBrief\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fee8bc0cf295df4e91d606318777a0b5fd8f350b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Dell\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.3.0\bcacde6a8ccedcc56c127403d26b76072fe6214d\retrofit-2.3.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
         <dex dex="C:\Users\Dell\AndroidStudioProjects\PolicyBrief\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.3.0_134c6d9d88e4500a20ecc23b379f94a78c559fc2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.android\build-cache\1f976c095f5cf5fdfae08640df0d5c29340c8c44\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\Dell\AndroidStudioProjects\PolicyBrief\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_df8809d3d29eb365c2ffa5172d4f343835007c92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\AndroidStudioProjects\PolicyBrief\app\libs\google-api-client-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="22aeef8463139fde1af1dcb69c5ecafb4142d340">
+        <dex dex="C:\Users\Dell\AndroidStudioProjects\PolicyBrief\app\build\intermediates\transforms\dex\debug\folders\1000\2\google-api-client-1.22.0_58670425d9edab9ddbe1db3301cc1d5cd6a777ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.android\build-cache\e0097da2d97ebbe5753619f482e836b8e4d001bc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Dell\AndroidStudioProjects\PolicyBrief\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e19807b617d407388262f72a08ace1a888e56a09\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -358,8 +349,17 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="f9e37bc68f0b3ef76611603d85921e45e237c720">
+        sha1="1d63206bc24f98c02dd350ec32075aa4416440b7">
         <dex dex="C:\Users\Dell\AndroidStudioProjects\PolicyBrief\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1e2c9e3ab4f9a561babd788779910d15e89698b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\2.0.0-beta2\880d9e0997b2d1bfc98e0d121ced33ee5d04aac4\retrofit-2.0.0-beta2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="C:\Users\Dell\AndroidStudioProjects\PolicyBrief\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.0-beta2_655093a232eaef37b5d5c17b0bc01a41098ae886\classes.dex" />
     </item>
     <item
         is-multidex="true"
