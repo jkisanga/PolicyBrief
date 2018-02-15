@@ -349,7 +349,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="1d63206bc24f98c02dd350ec32075aa4416440b7">
+        sha1="ea5aa26e1193e787d4ebad801a4136b02670a26b">
         <dex dex="C:\Users\Dell\AndroidStudioProjects\PolicyBrief\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1e2c9e3ab4f9a561babd788779910d15e89698b1\classes.dex" />
     </item>
     <item
